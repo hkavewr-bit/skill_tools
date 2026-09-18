@@ -1,0 +1,6 @@
+interface:
+  display_name: "项目开发个人偏好"
+  short_description: "从舆情和客服项目提取命名、分层、数据契约与流程组织习惯，延续个人开发风格"
+  default_prompt: "使用 $personal-project-preferences，结合当前项目结构，按我的命名、模块划分和架构习惯完成本次开发。"
+policy:
+  allow_implicit_invocation: true
