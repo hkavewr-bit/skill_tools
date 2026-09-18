@@ -1,6 +1,0 @@
-interface:
-  display_name: "轻量项目交付"
-  short_description: "简短工作卡、连续开发验证、一次交付，减少审批与重复文档"
-  default_prompt: "使用 $simple-project-delivery，先简短说明目标、范围和完成标准，再连续开发验证并统一交付。"
-policy:
-  allow_implicit_invocation: false

@@ -1,6 +1,0 @@
-interface:
-  display_name: "spec_generator"
-  short_description: "根据需求、概要设计与现有代码生成技术栈无关的方法级实现规格文档"
-  default_prompt: "使用 $spec_generator，根据当前需求、设计和项目代码生成模块实现 SPEC，明确契约、方法逻辑及验收标准。"
-policy:
-  allow_implicit_invocation: false
