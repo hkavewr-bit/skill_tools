@@ -3,4 +3,4 @@ interface:
   short_description: "从业务流程和详细需求对齐，到模块规格、小步开发验收及部署资料交付"
   default_prompt: "使用 $project-delivery-workflow，按已确认的流程与我对齐并交付当前版本的项目。"
 policy:
-  allow_implicit_invocation: true
+  allow_implicit_invocation: false

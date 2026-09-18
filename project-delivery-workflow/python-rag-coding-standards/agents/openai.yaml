@@ -1,0 +1,6 @@
+interface:
+  display_name: "Python / RAG 代码规范"
+  short_description: "从知识库项目提炼的 Python 分层、中文注释、节点状态与接口编码规范"
+  default_prompt: "使用 $python-rag-coding-standards，按提炼的代码规范完成当前 Python 模块任务，并检查实际调用链与返回契约。"
+policy:
+  allow_implicit_invocation: false
